@@ -2,6 +2,7 @@
 
 full stack web developement project as a E-COMMERCE software built with pure html, css, js, php & mysql
 i have created system with more control for admin you need to set sql backend db and tables and run on local host xampp
+i have not added payment method here for that you can set up a payment gateway from a provider and conect with some logic with place order button hope you liked it and i strongly recommend you to watch this working and function i personally loved it
 
 TITLE:E-Commerce Web Portal 
        --------------------
